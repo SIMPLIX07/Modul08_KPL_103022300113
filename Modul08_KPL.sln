@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul08_KPL", "Modul08_KPL\Modul08_KPL.csproj", "{599B29FE-81CE-435C-A509-B3061848133F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599B29FE-81CE-435C-A509-B3061848133F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599B29FE-81CE-435C-A509-B3061848133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599B29FE-81CE-435C-A509-B3061848133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599B29FE-81CE-435C-A509-B3061848133F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11906235-70B3-4F7D-ACAD-F6D1F3A5C443}
+	EndGlobalSection
+EndGlobal
